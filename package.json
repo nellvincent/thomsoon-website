@@ -1,0 +1,20 @@
+{
+  "name": "thomsoon-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nellvincent/thomsoon-website.git",
+  "author": "nellvincent <nellvncnt4@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "nodemon": "^2.0.18"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "prod": "node index.js"
+  }
+}

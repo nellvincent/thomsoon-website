@@ -4,7 +4,9 @@
 ```git clone https://github.com/nellvincent/thomsoon-website```
 
 Далее переходим в дирикторию проекта
-```cd thomsoon-website```
+```
+cd thomsoon-website
+```
 
 
 

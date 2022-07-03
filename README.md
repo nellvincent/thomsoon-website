@@ -5,7 +5,7 @@
 git clone https://github.com/nellvincent/thomsoon-website
 ```
 
-Также потребуется [https://nodejs.org](Node JS)
+Также потребуется [Node JS](https://nodejs.org)
 
 Далее переходим в дирикторию проекта
 ```
